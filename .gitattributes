@@ -1,0 +1,3 @@
+# Normalize line endings; .bat files need CRLF
+* text=auto
+*.bat text eol=crlf
