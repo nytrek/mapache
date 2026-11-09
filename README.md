@@ -34,6 +34,22 @@ undone. It is written in pure Python with no third-party dependencies.
 Hardening, Privacy and Optimization share one engine: before applying anything Mapache creates a
 restore point and saves the previous value of every setting, and **Undo** restores them exactly.
 
+## Screenshots
+
+<p align="center"><img src="assets/screenshots/menu.png" width="720" alt="Main menu"></p>
+
+Hardening settings grouped by level, each with its risk and what it may break:
+
+<p align="center"><img src="assets/screenshots/hardening.png" width="720" alt="Hardening selector"></p>
+
+Security audit score:
+
+<p align="center"><img src="assets/screenshots/audit-score.png" width="720" alt="Audit score"></p>
+
+Privacy guides, including what a Windows tool cannot do about browser fingerprinting:
+
+<p align="center"><img src="assets/screenshots/privacy-guides.png" width="720" alt="Privacy guides"></p>
+
 ## Safety
 
 - `--simulate` shows what would happen without changing anything.

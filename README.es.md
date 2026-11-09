@@ -31,6 +31,22 @@ se pueden deshacer. Está escrita en Python puro, sin dependencias de terceros.
 Hardening, Privacidad y Optimización comparten un motor: antes de aplicar, Mapache crea un punto de
 restauración y guarda el valor anterior de cada ajuste, y **Deshacer** los restaura exactamente.
 
+## Capturas
+
+<p align="center"><img src="assets/screenshots/menu.png" width="720" alt="Menú principal"></p>
+
+Ajustes de hardening agrupados por nivel, cada uno con su riesgo y lo que puede romper:
+
+<p align="center"><img src="assets/screenshots/hardening.png" width="720" alt="Selector de hardening"></p>
+
+Puntaje de la auditoría de seguridad:
+
+<p align="center"><img src="assets/screenshots/audit-score.png" width="720" alt="Puntaje de la auditoría"></p>
+
+Guías de privacidad, incluido lo que una herramienta de Windows no puede hacer contra el fingerprinting:
+
+<p align="center"><img src="assets/screenshots/privacy-guides.png" width="720" alt="Guías de privacidad"></p>
+
 ## Seguridad
 
 - `--simulate` muestra lo que haría sin cambiar nada.
