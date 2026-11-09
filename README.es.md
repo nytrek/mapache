@@ -70,6 +70,10 @@ en `%APPDATA%\Mapache\`.
 - [ ] Escáner más rápido en Rust (lectura directa de la MFT de NTFS)
 - [ ] Interfaz gráfica
 
+## Reportar vulnerabilidades
+
+Consulta [SECURITY.md](SECURITY.md).
+
 ## Contribuir
 
 [CONTRIBUTING.md](CONTRIBUTING.md) describe la arquitectura y cómo añadir un detector, una comprobación,

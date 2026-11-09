@@ -3,6 +3,10 @@
 </p>
 <h1 align="center">Mapache</h1>
 <p align="center">Clean up, audit and harden your Windows PC</p>
+<p align="center">
+  <a href="https://github.com/nytrek/mapache/actions/workflows/tests.yml"><img src="https://github.com/nytrek/mapache/actions/workflows/tests.yml/badge.svg" alt="tests"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT"></a>
+</p>
 <p align="center"><a href="README.es.md">Español</a></p>
 
 Mapache is a terminal tool for Windows that frees disk space, uninstalls programs with their leftovers,
@@ -68,6 +72,10 @@ Or double-click `Mapache.bat`. Settings, logs, backups and reports are stored in
 - [x] Cleaner, disk report, uninstaller, audit, hardening, privacy and optimization
 - [ ] Faster scanner in Rust (direct NTFS MFT reading)
 - [ ] Graphical interface
+
+## Security
+
+To report a vulnerability, see [SECURITY.md](SECURITY.md).
 
 ## Contributing
 
